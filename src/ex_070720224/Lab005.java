@@ -1,4 +1,4 @@
-package ex_160724;
+package ex_070720224;
 
 public class Lab005 {
     public static void main(String[] neha) {
